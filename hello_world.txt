@@ -1,0 +1,14 @@
+; Why did the Z80 programmer bring a ladder to work?
+; Because he heard the stack was getting too high!
+
+; What do you call a Z80 instruction that can't make up its mind?
+; LD A, (HL) -- it's always loading but never storing!
+
+; Why did the Z80 cross the road?
+; To get to the other register!
+
+; How do Z80 programmers fix their broken code?
+; They just RETurn and try again!
+
+; Why don't Z80 programmers ever get lost?
+; They always know where their PC is!
